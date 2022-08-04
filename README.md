@@ -6,3 +6,5 @@ Technical specifications:
 - booster scheme on the UC3843BD1013TR;
 - USB-UART module;
 - main MCU STM32F103C8T6TR.
+
+![demo image](https://github.com/vpodlesnyi/PhotoForRepositories/blob/master/pain.JPG)
