@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PainRegister.PcbDoc]
+   Generated File[PainRegister-RoundHoles.TXT]
+   Generated File[PainRegister-SlotHoles.TXT]
+   Generated File[PainRegister.LDP]
+   Generated File[PainRegister.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:45:06 AM On 8/4/2022

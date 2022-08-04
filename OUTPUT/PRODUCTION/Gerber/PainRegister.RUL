@@ -1,0 +1,15 @@
+DRC Rules Export File for PCB: D:\PainRegister\PCB\PainRegister.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_PAD|Scope=Board|Minimum=15.75
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=ShortCircuit|RuleName=ShortCircuit_GND|Scope=Board|Allowed=1
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=THpad_to_SMDpad|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=same Via to SMD PAD|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=EXT_Layer|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=Int_Layer|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=same Via to TH Pad|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_Edge|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Same_SMD_Pads|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=non_Plated_THP_to_Poly|Scope=Board|Minimum=4.92

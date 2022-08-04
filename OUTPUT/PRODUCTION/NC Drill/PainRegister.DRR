@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PainRegister.PcbDoc   8/4/2022  10:45:05 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PainRegister-RoundHoles.TXT
+ASCII SlotHoles File : PainRegister-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             724       PTH        2045.52mm (80.53inch)
+T2      0.5mm (20mil)                                             Slot              2         PTH        37.48mm (1.48inch)
+T3      0.7mm (28mil)                                             Round             6         PTH        56.80mm (2.24inch)
+T4      0.8mm (31mil)                                             Round             4         PTH        73.79mm (2.91inch)
+T5      0.9mm (35mil)                                             Round             12        PTH        28.63mm (1.13inch)
+T6      1mm (39mil)                                               Round             4         PTH        72.96mm (2.87inch)
+T7      1.1mm (43mil)                                             Round             2         PTH        3.50mm (0.14inch)
+T8      1.2mm (47mil)                                             Round             2         PTH        2.50mm (0.10inch)
+T9      2.7mm (106mil)                                            Round             4         PTH        265.00mm (10.43inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              760
+
+Total Processing Time (hh:mm:ss) : 00:00:00

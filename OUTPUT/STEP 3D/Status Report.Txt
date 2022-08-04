@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:47:33 AM On 8/4/2022
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : PCB Document [PainRegister.PcbDoc]
+   Generated File[PainRegister.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:47:45 AM On 8/4/2022
